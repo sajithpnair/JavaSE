@@ -1,4 +1,4 @@
-package com.spike.java.javase7.conditional;
+package com.spike.java.javase.conditional;
 
 /**
  * Created by sajith

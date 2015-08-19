@@ -2,7 +2,7 @@
  *
  */
 
-package com.spike.java.javase7;
+package com.spike.java.javase;
 
 /**
  * @author sajith
